@@ -8,10 +8,11 @@ color:#333;
 /* HEADER */
 
 header{
-background:linear-gradient(90deg,#003366,#0055a5);
+background:linear-gradient(120deg,#00264d,#0055a5,#0077cc);
 color:white;
 text-align:center;
-padding:25px;
+padding:35px 20px;
+box-shadow:0 4px 10px rgba(0,0,0,0.2);
 }
 
 header h1{
