@@ -1,9 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    // Welcome message
-    alert("Welcome to the Air Quality Management Course Website");
-
-    // Show current date and time
+    // Show current date and time in footer
     const footer = document.querySelector("footer");
 
     const date = new Date();
