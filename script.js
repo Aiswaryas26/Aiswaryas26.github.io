@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    // Show current date and time in footer
     const footer = document.querySelector("footer");
 
     const date = new Date();
